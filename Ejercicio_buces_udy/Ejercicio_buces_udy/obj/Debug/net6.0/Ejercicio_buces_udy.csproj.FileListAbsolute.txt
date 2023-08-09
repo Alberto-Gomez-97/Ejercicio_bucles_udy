@@ -1,0 +1,5 @@
+C:\Users\agomezpa\source\repos\Ejercicio_buces_udy\Ejercicio_buces_udy\obj\Debug\net6.0\Ejercicio_buces_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Ejercicio_buces_udy\Ejercicio_buces_udy\obj\Debug\net6.0\Ejercicio_buces_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Ejercicio_buces_udy\Ejercicio_buces_udy\obj\Debug\net6.0\Ejercicio_buces_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Ejercicio_buces_udy\Ejercicio_buces_udy\obj\Debug\net6.0\Ejercicio_buces_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Ejercicio_buces_udy\Ejercicio_buces_udy\obj\Debug\net6.0\Ejercicio_buces_udy.csproj.CoreCompileInputs.cache
